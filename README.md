@@ -2,7 +2,7 @@
 # **SAI TEJA IRRINKI**
 
 ##
-**** _+91 9493322788_
+                                                                                     **** _+91 9493322788_
 
 ![Shape2](RackMultipart20221104-1-jnwfvd_html_b56eb830755939ee.gif)_DevOps Engineer_ **🖂** _[saitejairrinki91@gmail.com](mailto:saitejairrinki91@gmail.com)_
 
