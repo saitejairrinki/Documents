@@ -12,3 +12,9 @@ Initializing a Repository
 git init
 ```
 >:memo: **Note:** Local
+
+## Establish Connection b/w Local to Remote
+```
+git remote add origin ~~LINK~~
+
+```
