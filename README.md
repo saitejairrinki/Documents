@@ -33,5 +33,12 @@ Git commit -m "message"
 ## Pushing Changes to remote
 
 ```
-git push origin "Btanch Name"
+git push origin Branch Name
 ```
+
+## Pull Changes from Remote to Local
+```
+git pull origin Branch Name
+```
+
+>:warning: **Note:** Before Pushing changes to Repo you have to use git pull if you made anything in remote repo
