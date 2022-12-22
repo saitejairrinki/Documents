@@ -15,6 +15,5 @@ git init
 
 ## Establish Connection b/w Local to Remote
 ```
-git remote add origin ~~LINK~~
-
+git remote add origin **LINK**
 ```
