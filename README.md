@@ -7,4 +7,8 @@ Global Information Tracker - Linus Torvalds
 2. SSH
 3. PAC - Tocken
 
-
+Initializing a Repository 
+```
+git init
+```
+>:memo: **Note:** Local
